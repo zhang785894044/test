@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eureka_7001/Eureka_7001.iml" filepath="$PROJECT_DIR$/Eureka_7001/Eureka_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eureka_7002/Eureka_7002.iml" filepath="$PROJECT_DIR$/Eureka_7002/Eureka_7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User_consumer_9001/User_consumer_9001.iml" filepath="$PROJECT_DIR$/User_consumer_9001/User_consumer_9001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User_consumer_9002/User_consumer_9002.iml" filepath="$PROJECT_DIR$/User_consumer_9002/User_consumer_9002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User_consumer_feign_9003/User_consumer_feign_9003.iml" filepath="$PROJECT_DIR$/User_consumer_feign_9003/User_consumer_feign_9003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User_interface/User_interface.iml" filepath="$PROJECT_DIR$/User_interface/User_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User_provider_8001/User_provider_8001.iml" filepath="$PROJECT_DIR$/User_provider_8001/User_provider_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User_provider_8002/User_provider_8002.iml" filepath="$PROJECT_DIR$/User_provider_8002/User_provider_8002.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc.iml" filepath="F:/kh-soa-feature-food_wine/bbc.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc-cas-api/bbc-cas-api.iml" filepath="F:/kh-soa-feature-food_wine/bbc-cas-api/bbc-cas-api.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc-dao/bbc-dao.iml" filepath="F:/kh-soa-feature-food_wine/bbc-dao/bbc-dao.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc-manage-area/bbc-manage-area.iml" filepath="F:/kh-soa-feature-food_wine/bbc-manage-area/bbc-manage-area.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc-manage-platform/bbc-manage-platform.iml" filepath="F:/kh-soa-feature-food_wine/bbc-manage-platform/bbc-manage-platform.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc-manage-vendor/bbc-manage-vendor.iml" filepath="F:/kh-soa-feature-food_wine/bbc-manage-vendor/bbc-manage-vendor.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc-payment/bbc-payment.iml" filepath="F:/kh-soa-feature-food_wine/bbc-payment/bbc-payment.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc-service/bbc-service.iml" filepath="F:/kh-soa-feature-food_wine/bbc-service/bbc-service.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc-task/bbc-task.iml" filepath="F:/kh-soa-feature-food_wine/bbc-task/bbc-task.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc-ui/bbc-ui.iml" filepath="F:/kh-soa-feature-food_wine/bbc-ui/bbc-ui.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/bbc-user-action/bbc-user-action.iml" filepath="F:/kh-soa-feature-food_wine/bbc-user-action/bbc-user-action.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/biz-core/biz-core.iml" filepath="F:/kh-soa-feature-food_wine/biz-core/biz-core.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/biz-message/biz-message.iml" filepath="F:/kh-soa-feature-food_wine/biz-message/biz-message.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/biz-model/biz-model.iml" filepath="F:/kh-soa-feature-food_wine/biz-model/biz-model.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/biz-redis/biz-redis.iml" filepath="F:/kh-soa-feature-food_wine/biz-redis/biz-redis.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/biz-support-jpa/biz-support-jpa.iml" filepath="F:/kh-soa-feature-food_wine/biz-support-jpa/biz-support-jpa.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/biz-support-web/biz-support-web.iml" filepath="F:/kh-soa-feature-food_wine/biz-support-web/biz-support-web.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/biz-third-party/biz-third-party.iml" filepath="F:/kh-soa-feature-food_wine/biz-third-party/biz-third-party.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/kh-service-api/kh-service-api.iml" filepath="F:/kh-soa-feature-food_wine/kh-service-api/kh-service-api.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/merge-helper/merge-helper.iml" filepath="F:/kh-soa-feature-food_wine/soa/merge-helper/merge-helper.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/passport/passport.iml" filepath="F:/kh-soa-feature-food_wine/passport/passport.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-api/soa-api.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-api/soa-api.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-api-kuaihe/soa-api-kuaihe.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-api-kuaihe/soa-api-kuaihe.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-base/soa-base.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-base/soa-base.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-bridge/soa-bridge.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-bridge/soa-bridge.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-search-base/soa-search-base.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-search-base/soa-search-base.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-search-bbc/soa-search-bbc.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-search-bbc/soa-search-bbc.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-service-auth2/soa-service-auth2.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-service-auth2/soa-service-auth2.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-service-common/soa-service-common.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-service-common/soa-service-common.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-service-helpcenter/soa-service-helpcenter.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-service-helpcenter/soa-service-helpcenter.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-service-kuaihe/soa-service-kuaihe.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-service-kuaihe/soa-service-kuaihe.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-service-order/soa-service-order.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-service-order/soa-service-order.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-service-product/soa-service-product.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-service-product/soa-service-product.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-service-promotion/soa-service-promotion.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-service-promotion/soa-service-promotion.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-service-stock/soa-service-stock.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-service-stock/soa-service-stock.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-service-user/soa-service-user.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-service-user/soa-service-user.iml" />
+      <module fileurl="file://F:/kh-soa-feature-food_wine/soa/soa-task/soa-task.iml" filepath="F:/kh-soa-feature-food_wine/soa/soa-task/soa-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent.iml" filepath="$PROJECT_DIR$/springcloud_parent.iml" />
+    </modules>
+  </component>
+</project>

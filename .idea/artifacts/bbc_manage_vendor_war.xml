@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bbc-manage-vendor:war">
+    <output-path>F:/kh-soa-feature-food_wine/bbc-manage-vendor/target</output-path>
+    <root id="archive" name="vendor.war">
+      <element id="artifact" artifact-name="bbc-manage-vendor:war exploded" />
+    </root>
+  </artifact>
+</component>

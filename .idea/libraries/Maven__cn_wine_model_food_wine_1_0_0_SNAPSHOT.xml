@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.wine:model-food-wine:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../openSource/repository/cn/wine/model-food-wine/1.0.0-SNAPSHOT/model-food-wine-1.0.0-20190121.090024-59.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../openSource/repository/cn/wine/model-food-wine/1.0.0-SNAPSHOT/model-food-wine-1.0.0-20190121.090024-59-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../openSource/repository/cn/wine/model-food-wine/1.0.0-SNAPSHOT/model-food-wine-1.0.0-20190121.090024-59-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

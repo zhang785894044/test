@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://F:/kh-soa-feature-food_wine/bbc-manage-area" />
+    <file type="web" url="file://F:/kh-soa-feature-food_wine/bbc-manage-platform" />
+    <file type="web" url="file://F:/kh-soa-feature-food_wine/bbc-manage-vendor" />
+    <file type="web" url="file://F:/kh-soa-feature-food_wine/bbc-payment" />
+    <file type="web" url="file://F:/kh-soa-feature-food_wine/bbc-task" />
+    <file type="web" url="file://F:/kh-soa-feature-food_wine/bbc-ui" />
+    <file type="web" url="file://F:/kh-soa-feature-food_wine/bbc-user-action" />
+    <file type="web" url="file://F:/kh-soa-feature-food_wine/passport" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="F:/kh-soa-feature-food_wine/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/EurekaServer_7002/pom.xml" />
+        <option value="$PROJECT_DIR$/User_consumer_9003/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

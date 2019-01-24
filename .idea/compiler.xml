@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bbc-cas-api" />
+        <module name="bbc-dao" />
+        <module name="bbc-manage-area" />
+        <module name="bbc-manage-platform" />
+        <module name="bbc-manage-vendor" />
+        <module name="bbc-payment" />
+        <module name="bbc-service" />
+        <module name="bbc-task" />
+        <module name="bbc-ui" />
+        <module name="bbc-user-action" />
+        <module name="biz-core" />
+        <module name="biz-message" />
+        <module name="biz-model" />
+        <module name="biz-redis" />
+        <module name="biz-support-jpa" />
+        <module name="biz-support-web" />
+        <module name="biz-third-party" />
+        <module name="Eureka_7001" />
+        <module name="Eureka_7002" />
+        <module name="kh-service-api" />
+        <module name="merge-helper" />
+        <module name="passport" />
+        <module name="soa-api" />
+        <module name="soa-api-kuaihe" />
+        <module name="soa-base" />
+        <module name="soa-bridge" />
+        <module name="soa-search-base" />
+        <module name="soa-search-bbc" />
+        <module name="soa-service-auth2" />
+        <module name="soa-service-common" />
+        <module name="soa-service-helpcenter" />
+        <module name="soa-service-kuaihe" />
+        <module name="soa-service-order" />
+        <module name="soa-service-product" />
+        <module name="soa-service-promotion" />
+        <module name="soa-service-stock" />
+        <module name="soa-service-user" />
+        <module name="soa-task" />
+        <module name="User_consumer_9001" />
+        <module name="User_consumer_9002" />
+        <module name="User_consumer_feign_9003" />
+        <module name="User_interface" />
+        <module name="User_provider_8001" />
+        <module name="User_provider_8002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bbc" target="1.7" />
+      <module name="bbc-cas-api" target="1.7" />
+      <module name="bbc-dao" target="1.7" />
+      <module name="bbc-manage-area" target="8" />
+      <module name="bbc-manage-platform" target="8" />
+      <module name="bbc-manage-vendor" target="1.7" />
+      <module name="bbc-payment" target="1.7" />
+      <module name="bbc-service" target="1.7" />
+      <module name="bbc-task" target="1.7" />
+      <module name="bbc-ui" target="1.7" />
+      <module name="bbc-user-action" target="1.7" />
+      <module name="biz-core" target="1.7" />
+      <module name="biz-message" target="1.7" />
+      <module name="biz-model" target="1.7" />
+      <module name="biz-redis" target="1.7" />
+      <module name="biz-support-jpa" target="1.7" />
+      <module name="biz-support-web" target="1.7" />
+      <module name="biz-third-party" target="1.7" />
+      <module name="Eureka_7001" target="1.5" />
+      <module name="Eureka_7002" target="1.5" />
+      <module name="EurekaServer_7002" target="1.5" />
+      <module name="kh-service-api" target="1.7" />
+      <module name="merge-helper" target="1.7" />
+      <module name="passport" target="1.7" />
+      <module name="soa" target="1.7" />
+      <module name="soa-api" target="1.7" />
+      <module name="soa-api-kuaihe" target="1.7" />
+      <module name="soa-base" target="1.7" />
+      <module name="soa-bridge" target="1.7" />
+      <module name="soa-search-base" target="1.7" />
+      <module name="soa-search-bbc" target="1.7" />
+      <module name="soa-service-auth2" target="1.7" />
+      <module name="soa-service-common" target="1.7" />
+      <module name="soa-service-helpcenter" target="1.7" />
+      <module name="soa-service-kuaihe" target="1.7" />
+      <module name="soa-service-order" target="1.7" />
+      <module name="soa-service-product" target="1.7" />
+      <module name="soa-service-promotion" target="1.7" />
+      <module name="soa-service-stock" target="1.7" />
+      <module name="soa-service-user" target="1.7" />
+      <module name="soa-task" target="1.7" />
+      <module name="springcloud_parent" target="1.5" />
+      <module name="User_consumer_9001" target="1.5" />
+      <module name="User_consumer_9002" target="1.5" />
+      <module name="User_consumer_9003" target="1.5" />
+      <module name="User_consumer_feign_9003" target="1.5" />
+      <module name="User_interface" target="1.5" />
+      <module name="User_provider_8001" target="1.5" />
+      <module name="User_provider_8002" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

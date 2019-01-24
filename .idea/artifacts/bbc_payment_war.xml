@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bbc-payment:war">
+    <output-path>F:/kh-soa-feature-food_wine/bbc-payment/target</output-path>
+    <root id="archive" name="payment.war">
+      <element id="artifact" artifact-name="bbc-payment:war exploded" />
+    </root>
+  </artifact>
+</component>
